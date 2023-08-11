@@ -1,2 +1,2 @@
 # elementwrapper
-A lightweight Electron wrapper for app.element.io
+A lightweight Electron wrapper for https://app.element.io/
