@@ -1,4 +1,4 @@
 # elementwrapper
-A lightweight Electron wrapper with tray icon for https://app.element.io/
+A lightweight Electron wrapper with tray icon for [app.element.io](https://app.element.io/) &mdash; compatible with old `flatpak` versions.
 
 To run under Linux, use: `dbus-launch yarn start`
