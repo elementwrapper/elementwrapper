@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "electron ."
+  },
+  "name": "elementwrapper",
+  "version": "1.0.0",
+  "description": "A lightweight Electron wrapper for https://app.element.io/",
+  "main": "main.js",
+  "repository": "https://github.com/elementwrapper/elementwrapper",
+  "author": "Eugene Grigoriewitch Philippov",
+  "license": "AGPL",
+  "devDependencies": {
+    "electron": "^25.5.0"
+  }
+}
