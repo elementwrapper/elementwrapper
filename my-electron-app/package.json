@@ -7,7 +7,7 @@
   "description": "A lightweight Electron wrapper for https://app.element.io/",
   "main": "main.js",
   "repository": "https://github.com/elementwrapper/elementwrapper",
-  "author": "Eugene Grigoriewitch Philippov",
+  "author": "Eugene Grigoriewitch Philippov https://github.com/nonlin-lin-chaos-order-etc-etal ",
   "license": "AGPL",
   "devDependencies": {
     "electron": "^25.5.0"
