@@ -1,8 +1,13 @@
 const { app, BrowserWindow, Menu, Tray } = require('electron');
+const contextMenu = require('electron-context-menu');
 
 let win = null;
 let tray = null;
 const ICON="./icon.jpg";
+
+contextMenu({
+	showSaveImageAs: true
+});
 
 const createWindow = () => {
   win = new BrowserWindow({

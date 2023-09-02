@@ -11,5 +11,8 @@
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "electron": "^25.5.0"
+  },
+  "dependencies": {
+    "electron-context-menu": "^3.6.1"
   }
 }
