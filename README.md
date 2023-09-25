@@ -13,6 +13,6 @@ To run under Linux,
    # EW was tested at: node v18.17.1 (npm v9.6.7)
    npm i yarn -g
    git clone https://github.com/elementwrapper/elementwrapper.git
-   cd elementwrapper
+   cd elementwrapper/my-electron-app/
    dbus-launch yarn start
    ```
